@@ -18,4 +18,4 @@ The repositories that make up Toontown are:
 
 A recreation of Team Fortress 2 in the Player is being developed [here](https://github.com/TF-Panda).
  
-See the [Documentation](https://github.com/toontownretro/documentation) repository for instructions on setting up and building the Player and Toontown.
+See the [Wiki](https://github.com/toontownretro/documentation/wiki) for more information regarding the project, as well as instructions for setting up and building the Player and Toontown.
