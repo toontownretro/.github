@@ -1,6 +1,6 @@
 # Toontown Retro
 
-Welcome to the Toontown Retro organization page.  This organization contains the repositories for our custom Panda3D version and development environment, known as the Player, as well as repositories for a version of Toontown Online running within the Player.
+Welcome to the Toontown Retro organization page.  This organization contains the repositories for our custom Panda3D fork and development environment, known as the Player, as well as repositories for a version of Toontown Online running within the Player.
 
 The repositories that make up the Player and its development environment are:
   - [ppremake](https://github.com/toontownretro/ppremake)
